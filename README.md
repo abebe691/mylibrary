@@ -1,3 +1,4 @@
+Name Mihret Abebe  ID 1501367
  # MyLibrary Desktop Application - Functional Overview and Description
 
 ## Overview
@@ -78,21 +79,3 @@ MyLibrary is a Windows desktop application developed in C# with WinForms that en
   - Checks for empty fields.
   - Numeric values checked for range validity.
   - Email format validated using regular expressions.
-
----
-
-## Summary
-
-MyLibrary integrates UI design, event-driven programming, database connectivity, and validation logic to provide a complete library management solution suitable for small-scale use. It demonstrates core concepts of C# desktop development and database CRUD operations effectively.
-
----
-
-## Usage Notes
-
-- The initial user is 'admin' with password 'admin123'.
-- The database file `MyLibrary.db` must be present alongside the executable.
-- The app uses SQLite for lightweight, file-based storage without requiring a server.
-
----
-
-Thank you for exploring MyLibrary!
