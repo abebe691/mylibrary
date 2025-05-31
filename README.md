@@ -1,3 +1,5 @@
+
+ Name Mihret Abebe   ID 1501367
  # MyLibrary Desktop Application - Functional Overview and Description
 
 ## Overview
